@@ -1,6 +1,6 @@
 # Revenue-Analysis-PowerBI
 
-•	Built a dashboard to summarize the weekly performance metrics for a SaaS product company for a given quarter
+•	Built a dashboard to summarize the weekly performance metrics for a SaaS product company for a given quarter <br>
 •	Created funnel chart to understand the opportunity stagewise distribution and highlighted top opportunities
 
 
